@@ -70,8 +70,8 @@ These mappings are repeatable.
 | Key Binding | Action                                                                |
 | ----------- | --------------------------------------------------------------------- |
 | `leader+-`  | Split the current pane vertically (splits into two, top and bottom)   |
-| `leader+\|` | Split the current pane horizontally (splits into two, left and right) |
-| `leader+\`  | Unsupported                                                           |
+| `leader+\`  | Split the current pane horizontally (splits into two, left and right) |
+| `leader+\|` | Unsupported                                                           |
 | `leader+_`  | Unsupported                                                           |
 
 ### Swapping Windows
